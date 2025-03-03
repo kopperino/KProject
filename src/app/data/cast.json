@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "character": "Isana Yashiro",
+        "voice_actor": "Daisuke Namikawa"
+    },
+    {
+        "id": 2,
+        "character": "Yatogami Kuroh",
+        "voice_actor": "Daisuke Ono"
+    },
+    {
+        "id": 3,
+        "character": "Neko",
+        "voice_actor": "Mikako Komatsu"
+    },
+    {
+        "id": 4,
+        "character": "Suoh Mikoto",
+        "voice_actor": "Kenjiro Tsuda"
+    },
+    {
+        "id": 5,
+        "character": "Munakata Reisi",
+        "voice_actor": "Tomokazu Sugita"
+    },
+    {
+        "id": 6,
+        "character": "Kushina Anna",
+        "voice_actor": "Yui Horie"
+    },
+    {
+        "id": 7,
+        "character": "Kusanagi Izumo",
+        "voice_actor": "Takahiro Sakurai"
+    },
+    {
+        "id": 8,
+        "character": "Yata Misaki",
+        "voice_actor": "Jun Fukuyama"
+    },
+    {
+        "id": 9,
+        "character": "Kamamoto Rikio",
+        "voice_actor": "Yuichi Nakamura"
+    },
+    {
+        "id": 10,
+        "character": "Awashima Seri",
+        "voice_actor": "Miyuki Sawashiro"
+    },
+    {
+        "id": 11,
+        "character": "Fushimi Saruhiko",
+        "voice_actor": "Mamoru Miyano"
+    },
+    {
+        "id": 12,
+        "character": "Yukizome Kukuri",
+        "voice_actor": "Satomi Sato"
+    },
+    {
+        "id": 13,
+        "character": "Totsuka Tatara",
+        "voice_actor": "Yuki Kaji"
+    },
+    {
+        "id": 14,
+        "character": "Adolf K. Weismann",
+        "voice_actor": "Tetsuya Kakihara"
+    },
+    {
+        "id": 15,
+        "character": "Daikaku Kokujoji",
+        "voice_actor": "Shozo Iiduka"
+    }
+
+]
