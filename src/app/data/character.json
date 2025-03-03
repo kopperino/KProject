@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Isana Yashiro",
+        "voice_actor": "Daisuke Namikawa",
+        "age": 17,
+        "height": 169,
+        "description": "A frivilous high-school student who wanders around school asking for pieces from other student's lunches.",
+        "quote": "I figured I shouldn't abandon my friends."
+    },
+    {
+        "id": 2,
+        "name": "Yatogami Kuroh",
+        "voice_actor": "Daisuke Ono",
+        "age": 18,
+        "height": 178,
+        "description": "Skilled at fencing, martial arts, and housework. He has a stubborn personality.",
+        "quote": "I trust in only one thing. The words of my departed Master."
+    },
+    {
+        "id": 3,
+        "name": "Neko",
+        "voice_actor": "Mikako Komatsu",
+        "age": 15,
+        "height": 155,
+        "description": "A mysterious and beautiful girl that appears before Shiro. She hates wearing clothes.",
+        "quote": "My name is Neko!"
+    },
+    {
+        "id": 4,
+        "name": "Suoh Mikoto",
+        "voice_actor": "Kenjiro T'suda",
+        "age": 24,
+        "height": 185,
+        "description": "The 3rd King, also known as the Red King. He is known and feared as the leader of the Red Clan.",
+        "quote": "There is only one way. Lock me up forever."
+    }
+]
