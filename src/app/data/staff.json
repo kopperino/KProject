@@ -1,5 +1,93 @@
 [
     {
-        
+        "id": 1,
+        "name": "Shingo Suzuki",
+        "role": "Director and Character Design"
+    },
+    {
+        "id": 2,
+        "name": "Hiromitsu Kanazawa",
+        "role": "Series Director 1"
+    },
+    {
+        "id": 3,
+        "name": "Susumo Kodo",
+        "role": "Series Director 2"
+    },
+    {
+        "id": 4,
+        "name": "Makoto Furuta",
+        "role": "Chief Animation Director"
+    },
+    {
+        "id": 5,
+        "name": "Hiroshi Okubo",
+        "role": "Mechanical Designer"
+    },
+    {
+        "id": 6,
+        "name": "Takahiro Kishida",
+        "role": "Prop Designer"
+    },
+    {
+        "id": 7,
+        "name": "Hiroshi Okubo",
+        "role": "Main Animator 1"
+    },
+    {
+        "id": 8,
+        "name": "Jun Nakai",
+        "role": "Main Animator 2"
+    },
+    {
+        "id": 9,
+        "name": "Kazuaki Imoto",
+        "role": "Main Animator 3"
+    },
+    {
+        "id": 10,
+        "name": "Takayuki Uchida",
+        "role": "Main Animator 4"
+    },
+    {
+        "id": 11,
+        "name": "Masanobu Nomura",
+        "role": "Art Director"
+    },
+    {
+        "id": 12,
+        "name": "Tomoko Saito",
+        "role": "Colour Designer"
+    },
+    {
+        "id": 13,
+        "name": "Hiroshi Oizumi",
+        "role": "Director of Photography 1"
+    },
+    {
+        "id": 14,
+        "name": "Toru Fukushi",
+        "role": "Director of Photography 2"
+    },
+    {
+        "id": 15,
+        "name": "Yoshinori Nagamine",
+        "role": "CGI Director"
+    },
+    {
+        "id": 16,
+        "name": "Ayako Tan",
+        "role": "Editing"
+    },    
+    {
+        "id": 17,
+        "name": "Hideo Takahashi",
+        "role": "Music Director 1"
+    },
+    {
+        "id": 18,
+        "name": "Ryo Nakada",
+        "role": "Music Director 2"
     }
+    
 ]
