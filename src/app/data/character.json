@@ -34,5 +34,27 @@
         "height": 185,
         "description": "The 3rd King, also known as the Red King. He is known and feared as the leader of the Red Clan.",
         "quote": "There is only one way. Lock me up forever."
+    },
+    {
+        "id": 5,
+        "name": "Munakata Reisi",
+        "voice_actor": "Tomokazu Sugita",
+        "age": 24,
+        "height": 185,
+        "description": "The 4th King, also known as the Blue King. He is also the captain of the Blue Clan, the SCEPTER 4. He always speaks politely, but more often than not it is simply to mock those he speaks to.",
+        "quote": "With sword in hand we need simply strike. Nothing shall cloud the greater good."
+    },
+    {
+        "id": 6,
+        "name": "Awashima Seri",
+        "voice_actor": "Miyuki Sawashiro",
+        "age": 22,
+        "height": 170,
+        "description": "The 4th King, also known as the Blue King. He is also the captain of the Blue Clan, the SCEPTER 4. He always speaks politely, but more often than not it is simply to mock those he speaks to.",
+        "quote": "With sword in hand we need simply strike. Nothing shall cloud the greater good."
+    },
+    {
+        "id": 7,
+        "name": ""
     }
 ]
