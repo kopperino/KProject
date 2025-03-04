@@ -55,6 +55,83 @@
     },
     {
         "id": 7,
-        "name": ""
+        "name": "Fushimi Saruhiko",
+        "voice_actor": "Mamoru Miyano",
+        "age": 19,
+        "height": 178,
+        "description": "The third member of SCEPTER 4. He often seems very uninspired, but is in fact very intelligent.",
+        "quote": "It's coming... The Sword of Damocles."
+    },
+    {
+        "id": 8,
+        "name": "Kusanagi Izumo",
+        "voice_actor": "Takahiro Sakurai",
+        "age": 26,
+        "height": 188,
+        "description": "The owner of the bar, HOMRA. He speaks with an accent from Kyoto and has known Suoh for many years.",
+        "quote": "I just can't win... I was just playing around!"
+    },
+    {
+        "id": 9,
+        "name": "Yata Misaki",
+        "voice_actor": "Jun Fukuyama",
+        "age": 19,
+        "height": 167,
+        "description": "A squad leader of the Red Clan who rides a skateboard. He is very impulsive, but strongly respects his gang members.",
+        "quote": "Mikoto-san taught me that, and I hold it with pride!"
+    },
+    {
+        "id": 10,
+        "name": "Kushina Anna",
+        "voice_actor": "Yui Horie",
+        "age": 11,
+        "height": 140,
+        "description": "Acts as a kind mascot for the Red Clan. She almost never speaks, and seems very much like a doll.",
+        "quote": "Mikoto, don't go!"
+    },
+    {
+        "id": 11,
+        "name": "Totsuka Tatara",
+        "voice_actor": "Yuki Kaji",
+        "age": 22,
+        "height": 172,
+        "description": "One of the first members of the Red Clan, along with Suoh and Kusanagi. He has the kind of personality that allows him to get along with anyone.",
+        "quote": "Ah, what a lovely night. I'm here to take some pictures of the night, what are you doing here?"
+    },
+    {
+        "id": 12,
+        "name": "Kamamoto Rikio",
+        "voice_actor": "Yuiichi Nakamura",
+        "age": 20,
+        "height": 185,
+        "description": "Always works together with Yata. He is quite plump and has a strong sense of duty.",
+        "quote": "Let's go! Tear 'em apart!"
+    },
+    {
+        "id": 13,
+        "name": "Yukizome Kukuri",
+        "voice_actor": "Satomi Sato",
+        "age": 17,
+        "height": 158,
+        "description": "Shiro's classmate and a member of the student council. A cheerful and kind girl.",
+        "quote": "He's gone! Where did he go?"
+    },
+    {
+        "id": 14,
+        "name": "Adolf K. Weismann",
+        "voice_actor": "Tetsuya Kakihara",
+        "age": "??",
+        "height": "??",
+        "description": "The 1st King, also known as the Silver King. Nothing more is known about him.",
+        "quote": "......"
+    },
+    {
+        "id": 15,
+        "name": "Kokujoji Daikaku",
+        "voice_actor": "Shozo Iiduka",
+        "age": 95,
+        "height": 210,
+        "description": "The 2nd King, also known as the Golden King. A man with great power who controls the economics of Japan. Currently the most powerful King.",
+        "quote": "This country is doomed!"
     }
 ]
