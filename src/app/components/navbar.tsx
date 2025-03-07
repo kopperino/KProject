@@ -3,13 +3,20 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
+import { useState } from 'react';
+import { MenuIcon, XIcon } from 'lucide-react';
 
 export default function NavBar() {
     const pathname = usePathname();
+    const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+
+    const handleNav = () => {
+        setIsMobileMenuOpen(!isMobileMenuOpen);
+    };
 
     return (
-        <nav className="flex items-center bg-amber-300">
-            <div className="hover:opacity-70 ml-6">
+        <nav className="flex items-center bg-[#F5F5F5] w-full shadow-[0_4px_6px_#229799]">
+            <div className="hover:opacity-70 ml-6 flex-grow ">
                 <Link href="/">
                     <Image
                         src="/K_official_logo.webp"
@@ -19,28 +26,54 @@ export default function NavBar() {
                     />
                 </Link>
             </div>
-            <ul className="flex mx-auto justify-center gap-10 m-10 font-bold">
+
+            <ul className="flex justify-end mr-10 gap-10 font-bold">
                 <li
                     className={
-                        pathname === '/introduction' ? 'text-blue-600' : ''
+                        pathname === '/introduction'
+                            ? 'text-[#229799]'
+                            : 'text-[#424242] hover:text-[#229799]'
                     }
                 >
                     <Link href="/introduction">INTRODUCTION</Link>
                 </li>
-                <li className={pathname === '/story' ? 'text-blue-600' : ''}>
+                <li
+                    className={
+                        pathname === '/story'
+                            ? 'text-[#229799]'
+                            : 'text-[#424242] hover:text-[#229799]'
+                    }
+                >
                     <Link href="/story">STORY</Link>
                 </li>
                 <li
-                    className={pathname === '/character' ? 'text-blue-600' : ''}
+                    className={
+                        pathname === '/character'
+                            ? 'text-[#229799]'
+                            : 'text-[#424242] hover:text-[#229799]'
+                    }
                 >
                     <Link href="/character">
                         <h1>CHARACTER</h1>
                     </Link>
                 </li>
-                <li className={pathname === '/staff' ? 'text-blue-600' : ''}>
-                    <Link href="/staff">STAFF / CAST</Link>
+                <li
+                    className={
+                        pathname === '/staff'
+                            ? 'text-[#229799]'
+                            : 'text-[#424242] hover:text-[#229799]'
+                    }
+                >
+                    <Link href="/staff">STAFF</Link>
                 </li>
             </ul>
+            <div className="md:hidden" onClick={handleNav}>
+                {isMobileMenuOpen ? (
+                    <XIcon className="h-5 w-5" />
+                ) : (
+                    <MenuIcon className="h-5 w-5" />
+                )}
+            </div>
         </nav>
     );
 }
