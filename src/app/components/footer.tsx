@@ -1,11 +1,9 @@
 export default function Footer() {
     return (
         <div className="bg-[#F5F5F5] text-center p-10 text-2xl font-bold flex justify-between">
-            <div>
-                <div>K</div>
-                <div>K</div>
-            </div>
-            <div className="grid grid-cols-1">
+            <div className="grid grid-cols-1 gap-4">K</div>
+
+            <div className="grid grid-cols-1 gap-4">
                 <div>Test</div>
                 <div>Test</div>
                 <div>Test</div>
