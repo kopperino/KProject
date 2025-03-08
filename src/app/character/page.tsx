@@ -10,6 +10,7 @@ import {
     CardHeader,
     CardTitle,
 } from '@/components/ui/card';
+import { Speech } from 'lucide-react';
 
 type Character = {
     id: number;
@@ -48,11 +49,11 @@ export default async function CharacterPage() {
 
                         <CardContent className="grid grid-cols-2 place-items-center">
                             <div>
-                                <CardDescription>
+                                <CardDescription className="text-md">
                                     {character.description}
                                 </CardDescription>
-                                <CardDescription className="mt-5">
-                                    {character.quote}
+                                <CardDescription className="mt-5 italic">
+                                    "{character.quote}"
                                 </CardDescription>
                             </div>
                             <div>
@@ -60,13 +61,15 @@ export default async function CharacterPage() {
                                     src={character.mugshot}
                                     width={150}
                                     height={150}
-                                    alt="adolf_mugshot.png"
+                                    alt={character.mugshot}
                                     className="shadow-xl rounded-xl"
                                 />
                             </div>
                         </CardContent>
                         <CardFooter>
-                            <p>Voiced by {character.voice_actor}</p>
+                            <p className="flex gap-2 bg-amber-100 rounded-4xl px-3 py-2">
+                                <Speech /> {character.voice_actor}
+                            </p>
                         </CardFooter>
                     </Card>
                 ))}
