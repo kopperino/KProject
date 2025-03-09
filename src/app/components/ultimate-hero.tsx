@@ -4,14 +4,13 @@ import { Button } from '@/components/ui/button';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
-import { ArrowBigRight } from 'lucide-react';
 
 export default function Hero() {
     return (
         <section className="relative w-full h-screen flex items-center justify-center">
             <div className="inset-0">
                 <Image
-                    src="/test.jpg"
+                    src="/hero_image.jpg"
                     alt="Hero Background"
                     fill
                     className="object-cover"
