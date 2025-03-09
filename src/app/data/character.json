@@ -7,7 +7,8 @@
         "height": 169,
         "description": "A frivilous high-school student who wanders around school asking for pieces from other student's lunches.",
         "quote": "I figured I shouldn't abandon my friends.",
-        "mugshot": "/characters/yashiro_mugshot.png"
+        "mugshot": "/characters/yashiro_mugshot.png",
+        "myanimelist": "https://myanimelist.net/people/87/Daisuke_Namikawa"
     },
     {
         "id": 2,
@@ -17,7 +18,8 @@
         "height": 178,
         "description": "Skilled at fencing, martial arts, and housework. He has a stubborn personality.",
         "quote": "I trust in only one thing. The words of my departed Master.",
-        "mugshot": "/characters/kuroh_mugshot.png"
+        "mugshot": "/characters/kuroh_mugshot.png",
+        "myanimelist": "https://myanimelist.net/people/212/Daisuke_Ono"
     },
     {
         "id": 3,
@@ -27,7 +29,8 @@
         "height": 155,
         "description": "A mysterious and beautiful girl that appears before Shiro. She hates wearing clothes.",
         "quote": "My name is Neko!",
-        "mugshot": "/characters/neko_mugshot.png"
+        "mugshot": "/characters/neko_mugshot.png",
+        "myanimelist": "https://myanimelist.net/people/10071/Mikako_Komatsu"
     },
     {
         "id": 4,
@@ -37,7 +40,8 @@
         "height": 185,
         "description": "The 3rd King, also known as the Red King. He is known and feared as the leader of the Red Clan.",
         "quote": "There is only one way. Lock me up forever.",
-        "mugshot": "/characters/mikoto_mugshot.png"
+        "mugshot": "/characters/mikoto_mugshot.png",
+        "myanimelist": "https://myanimelist.net/people/591/Kenjirou_Tsuda"
     },
     {
         "id": 5,
@@ -47,7 +51,8 @@
         "height": 185,
         "description": "The 4th King, also known as the Blue King. He is also the captain of the Blue Clan, the SCEPTER 4. He always speaks politely, but more often than not it is simply to mock those he speaks to.",
         "quote": "With sword in hand we need simply strike. Nothing shall cloud the greater good.",
-        "mugshot": "/characters/reishi_mugshot.png"
+        "mugshot": "/characters/reishi_mugshot.png",
+        "myanimelist": "https://myanimelist.net/people/2/Tomokazu_Sugita"
     },
     {
         "id": 6,
@@ -57,7 +62,8 @@
         "height": 170,
         "description": "The 4th King, also known as the Blue King. He is also the captain of the Blue Clan, the SCEPTER 4. He always speaks politely, but more often than not it is simply to mock those he speaks to.",
         "quote": "With sword in hand we need simply strike. Nothing shall cloud the greater good.",
-        "mugshot": "/characters/seri_mugshot.png"
+        "mugshot": "/characters/seri_mugshot.png",
+        "myanimelist": "https://myanimelist.net/people/99/Miyuki_Sawashiro"
     },
     {
         "id": 7,
@@ -67,7 +73,8 @@
         "height": 178,
         "description": "The third member of SCEPTER 4. He often seems very uninspired, but is in fact very intelligent.",
         "quote": "It's coming... The Sword of Damocles.",
-        "mugshot": "/characters/fushimi_mugshot.png"
+        "mugshot": "/characters/fushimi_mugshot.png",
+        "myanimelist": "https://myanimelist.net/people/65/Mamoru_Miyano"
     },
     {
         "id": 8,
@@ -77,7 +84,8 @@
         "height": 188,
         "description": "The owner of the bar, HOMRA. He speaks with an accent from Kyoto and has known Suoh for many years.",
         "quote": "I just can't win... I was just playing around!",
-        "mugshot": "/characters/izumo_mugshot.png"
+        "mugshot": "/characters/izumo_mugshot.png",
+        "myanimelist": "https://myanimelist.net/people/79/Takahiro_Sakurai"
     },
     {
         "id": 9,
@@ -87,7 +95,8 @@
         "height": 167,
         "description": "A squad leader of the Red Clan who rides a skateboard. He is very impulsive, but strongly respects his gang members.",
         "quote": "Mikoto-san taught me that, and I hold it with pride!",
-        "mugshot": "/characters/yata_mugshot.png"
+        "mugshot": "/characters/yata_mugshot.png",
+        "myanimelist": "https://myanimelist.net/people/86/Jun_Fukuyama"
     },
     {
         "id": 10,
@@ -97,7 +106,8 @@
         "height": 140,
         "description": "Acts as a kind mascot for the Red Clan. She almost never speaks, and seems very much like a doll.",
         "quote": "Mikoto, don't go!",
-        "mugshot": "/characters/anna_mugshot.png"
+        "mugshot": "/characters/anna_mugshot.png",
+        "myanimelist": "https://myanimelist.net/people/28/Yui_Horie"
     },
     {
         "id": 11,
@@ -107,7 +117,8 @@
         "height": 172,
         "description": "One of the first members of the Red Clan, along with Suoh and Kusanagi. He has the kind of personality that allows him to get along with anyone.",
         "quote": "Ah, what a lovely night. I'm here to take some pictures of the night, what are you doing here?",
-        "mugshot": "/characters/totsuka_mugshot.png"
+        "mugshot": "/characters/totsuka_mugshot.png",
+        "myanimelist": "https://myanimelist.net/people/5077/Yuki_Kajiura"
     },
     {
         "id": 12,
@@ -127,7 +138,8 @@
         "height": 158,
         "description": "Shiro's classmate and a member of the student council. A cheerful and kind girl.",
         "quote": "He's gone! Where did he go?",
-        "mugshot": "/characters/kukuri_mugshot.png"
+        "mugshot": "/characters/kukuri_mugshot.png",
+        "myanimelist": "https://myanimelist.net/people/6560/Satomi_Satou"
     },
     {
         "id": 14,
@@ -137,7 +149,8 @@
         "height": "??",
         "description": "The 1st King, also known as the Silver King. Nothing more is known about him.",
         "quote": "......",
-        "mugshot": "/characters/adolf_mugshot.png"
+        "mugshot": "/characters/adolf_mugshot.png",
+        "myanimelist": "https://myanimelist.net/people/167/Tetsuya_Kakihara"
     },
     {
         "id": 15,
