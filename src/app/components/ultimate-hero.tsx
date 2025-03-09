@@ -28,7 +28,8 @@ export default function Hero() {
                 className="relative text-center text-white px-6"
             >
                 <h1 className="text-8xl md:text-6xl font-bold uppercase">
-                    Unravel the Mysteries of K
+                    Unravel the <br />
+                    Mysteries of K
                 </h1>
                 <p className="m-5 mx-70 max-w-prose text-lg md:text-xl leading-12 text-gray-100 bg-black/80 p-6 rounded-lg shadow-lg">
                     <span className="font-semibold text-pretty">K</span> is an
